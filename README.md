@@ -15,7 +15,7 @@ I am a final year B.Tech student at VTU CPGS Mysuru, passionate about technology
 - [Project 2](https://github.com/yourusername/project2): Another project with a short description.
 
 ## 📫 How to Reach Me
-- Email: your.email@example.com
+- Email: dr.amrutha28@gmail.com
 - LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
 - Twitter: [@yourhandle](https://twitter.com/yourhandle)
 
